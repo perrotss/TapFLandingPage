@@ -11480,6 +11480,10 @@ section.cta:before {
   color: black;
 }
 
+.fa, .fab:hover {
+  color: white;
+}
+
 ul {
   list-style-type: none;
 }
